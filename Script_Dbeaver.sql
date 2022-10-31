@@ -1,3 +1,4 @@
+//Creada desde Dbeaver
 CREATE TABLE "user" (
   "id" SERIAL PRIMARY KEY,
   "name" varchar NOT NULL,
